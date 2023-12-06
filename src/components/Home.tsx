@@ -19,7 +19,7 @@ const Home = (props: Props) => {
                 {/* ringkasan probadi */}
                 <div className="flex justify-start items-center w-full md:w-1/2">
                     <div className="flex flex-col justify-start w-full md:w-5/6">
-                        <div className="text-base md:text-xl font-bold text-white">Hello {'Tamu'} 👋, I'm</div>
+                        <div className="text-base md:text-xl font-bold text-white">Hello 👋, I'm</div>
                         <div className="text-3xl md:text-5xl font-bold text-sky-600 mt-5">Dodi Ardiansyah</div>
                         <div className="text-xl md:text-2xl font-semibold text-white mt-5">
                             <TypeAnimation

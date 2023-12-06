@@ -39,7 +39,7 @@ const About = (props: Props) => {
                     data-aos="fade-up"
                     data-aos-easing="ease-in-sine"
                     data-aos-duration="1500"
-                    data-aos-delay="1500"
+                    data-aos-delay="1000"
                     >
                         <div className="text-xl md:text-2xl font-bold mt-8 text-blue-500">My Skill 🎯</div>
                         <div className="grid grid-cols-6 gap-5 w-full mt-5">

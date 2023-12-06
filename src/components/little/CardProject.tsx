@@ -22,8 +22,8 @@ const CardProject = (props: Props) => {
                     <FaExternalLinkAlt />
                 </a>}
             </div>
-            <div className="flex justify-center items-center h-4/5 text-2xl md:text-3xl font-bold group-hover:text-gray-300 transition-all duration-500">{props.name}</div>
-            <div className="flex justify-center items-center h-1/5 text-base md:text-lg font-semibold group-hover:text-gray-300 transition-all duration-500">
+            <div className="flex justify-center items-center h-4/6 text-2xl md:text-3xl font-bold group-hover:text-gray-300 transition-all duration-500">{props.name}</div>
+            <div className="flex justify-center items-center h-2/6 text-base md:text-lg font-semibold group-hover:text-gray-300 transition-all duration-500">
                 {props.technology.join(' - ')}
             </div>
 

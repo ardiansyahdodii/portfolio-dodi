@@ -16,7 +16,7 @@ const Navbar = () => {
                 smooth={true}
                 className="flex justify-start items-center cursor-pointer text-zinc-300"
             >
-                <img src="/assets/navbar/dark.png" alt="Dodi Ardiansyah" className='w-[100px] md:w-[200px]' />
+                <img src="/assets/navbar/dark.png" alt="Dodi Ardiansyah" className='w-[130px] md:w-[200px]' />
             </Link>
             <div className='md:hidden flex justify-center items-center'>
                 {/* hamburger menu */}
