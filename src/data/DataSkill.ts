@@ -1,0 +1,1 @@
+export const DataSkill= ['html5', 'css3', 'javascript', 'typescript', 'react', 'nodejs', 'tailwind', 'mysql', 'mongodb']
