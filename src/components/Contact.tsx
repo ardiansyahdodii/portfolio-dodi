@@ -85,7 +85,7 @@ const Contact = (props: Props) => {
             </div>
             <div className="md:flex mt-10 md:space-x-10">
                 <div
-                    data-aos="fade-up-right"
+                    data-aos="zoom-in-up"
                     data-aos-ease="ease-in-sine"
                     data-aos-duration="1500"
                     className="w-full md:w-1/2 p-5 "
@@ -105,7 +105,6 @@ const Contact = (props: Props) => {
                                 <a href="https://wa.me/6282121908675" target="_blank">
                                     +62 821 2190 8675
                                 </a>
-
                             </div>
                         </div>
                     </div>
@@ -121,7 +120,7 @@ const Contact = (props: Props) => {
                 </div>
                 {/* Form */}
                 <div
-                    data-aos="fade-up-left"
+                    data-aos="zoom-in-up"
                     data-aos-ease="ease-in-sine"
                     data-aos-duration="1500"
                     className="w-full md:w-1/2 p-5"
