@@ -10,7 +10,7 @@ const Navbar = () => {
 
     return (
 
-        <nav className="flex justify-between w-full px-10 md:px-20 bg-slate-900/90 z-10 fixed">
+        <nav className="flex justify-between w-full px-10 py-3 md:py-0 md:px-20 bg-slate-900/90 z-10 fixed">
             <Link
                 to="home"
                 smooth={true}
