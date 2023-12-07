@@ -15,10 +15,10 @@ const CardProject = (props: Props) => {
     return (
         <div className={`${props.style} h-[250px] md:h-[300px] bg-cyan-900 p-7 rounded-md hover:scale-110 hover:bg-slate-900 hover:border-2 transition-all duration-500 group`}>
             <div className="flex justify-end items-center w-full space-x-3 text-2xl group-hover:text-gray-300 transition-all duration-500">
-                {props.link.github && <a href={props.link.github} target="_blank">
+                {props.link.github && <a href={props.link.github} target="_blank" className="hover:scale-125">
                     <FaGithub />
                 </a>}
-                {props.link.live && <a href={props.link.live} target="_blank">
+                {props.link.live && <a href={props.link.live} target="_blank" className="hover:scale-125">
                     <FaExternalLinkAlt />
                 </a>}
             </div>

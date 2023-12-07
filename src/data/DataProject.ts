@@ -6,7 +6,7 @@ export const DataProject = [
             github: 'https://github.com/ardiansyahdodii/movie-list-react',
             live: 'https://movie-list-react-jet.vercel.app/'
         },
-        technology: ['ReactJS', 'TailwindCSS', 'ViteJS', 'API'],
+        technology: ['ReactJS', 'TailwindCSS', 'API'],
     },
     {
         id: 2,
@@ -16,6 +16,24 @@ export const DataProject = [
             live: ''
         },
         technology: ['HTML', 'CSS', 'Javascript'],
+    },
+    {
+        id: 3,
+        name: 'Fullstack CRUD MERN',
+        link: {
+            github: 'https://github.com/ardiansyahdodii/Fullstack-CRUD-MERN',
+            live: ''
+        },
+        technology: ['Javascript', 'ExpressJS', 'MySQL', 'ReactJS'],
+    },
+    {
+        id: 4,
+        name: 'Backend Login JWT',
+        link: {
+            github: 'https://github.com/ardiansyahdodii/Login-JWT',
+            live: ''
+        },
+        technology: ['Javascript', 'ExpressJS', 'MySQL', 'JWT'],
     },
     
 ]
