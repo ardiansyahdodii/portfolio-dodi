@@ -26,7 +26,7 @@ const About = (props: Props) => {
                 </div>
                 <div className="w-full md:w-2/3 px-3 py-5">
                     <div 
-                    data-aos="fade-down"
+                    data-aos="fade-up"
                     data-aos-easing="ease-in-sine"
                     data-aos-duration="1500"
                     >
@@ -36,7 +36,7 @@ const About = (props: Props) => {
                         </div>
                     </div>
                     <div
-                    data-aos="fade-up"
+                    data-aos="zoom-in-up"
                     data-aos-easing="ease-in-sine"
                     data-aos-duration="1500"
                     data-aos-delay="1000"

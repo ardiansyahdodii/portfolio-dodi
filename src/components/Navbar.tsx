@@ -69,7 +69,7 @@ const Navbar = () => {
 
             {/* Navlink Hamburger */}
             <div
-                    className={`${hamburger ? "flex" : "hidden"} md:hidden flex-col justify-center items-center space-y-3 p-3 text-2xl font-semibold text-blue-500 bg-slate-600 fixed z-10 mt-[52px] right-10 rounded-lg`}>
+                    className={`${hamburger ? "flex" : "hidden"} md:hidden flex-col justify-center items-center space-y-3 py-3 px-5 text-xl font-semibold text-blue-500 bg-slate-600 fixed z-10 mt-[52px] right-10 rounded-lg`}>
                     <Link
                         activeStyle={{ color: "rgb(228 228 231)" }}
                         to="home"
