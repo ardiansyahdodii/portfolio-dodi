@@ -20,7 +20,7 @@ const About = (props: Props) => {
                         className="flex justify-center items-center p-14 h-[250px] md:h-[580px]"
                     >
                         <div className="bg-blue-600 rounded-lg group" >
-                            <img src="/assets/about/dodi3.jpg" alt="Dodi A" className="rounded-lg w-[200px] h-[200px] md:h-[300px] md:w-[300px] lg:h-[350px] lg:w-[350px] origin-bottom-right -rotate-[8deg] group-hover:rotate-0 transition-all duration-500" />
+                            <img src="/assets/about/dodi3.jpg" alt="Dodi A" className="rounded-lg w-[200px] h-[200px] md:h-[300px] md:w-[300px] origin-bottom-right -rotate-[8deg] group-hover:rotate-0 transition-all duration-500" />
                         </div>
                     </div>
                 </div>
