@@ -35,5 +35,14 @@ export const DataProject = [
         },
         technology: ['Javascript', 'ExpressJS', 'MySQL', 'JWT'],
     },
+    {
+        id: 5,
+        name: 'Feeduiteun App',
+        link: {
+            github: 'https://github.com/ardiansyahdodii/feeduiteun-app',
+            live: 'https://feeduiteun-app.vercel.app/'
+        },
+        technology: ['Javascript', 'ReactJS', 'TailwindCSS'],
+    },
     
 ]
